@@ -12,7 +12,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Ale-net" height="30" width="40" src="https://img.icons8.com/nolan/344/thin-client.png">
   <img align="center" alt="Ale-tux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="Ale-bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
+  <img align="center" alt="Ale-bash" height="30" width="40" src="https://img.icons8.com/plasticine/344/bash.png">
   <img align="center" alt="Ale-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ale-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Ale-gitHub" height="30" width="40" src="https://img.icons8.com/color-glass/344/github-2.png">
