@@ -15,7 +15,7 @@
   <img align="center" alt="Ale-bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
   <img align="center" alt="Ale-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ale-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Ale-gitHub" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
+  <img align="center" alt="Ale-gitHub" height="30" width="40" src="https://img.icons8.com/color-glass/344/github-2.png">
   <img align="center" alt="Ale-aws" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg">
   <img align="center" alt="Ale-gcp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
   <img align="center" alt="Ale-tf" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Official_YAML_Logo.svg/512px-Official_YAML_Logo.svg.png?20220206165621">
