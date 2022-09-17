@@ -1,4 +1,4 @@
-### Olá! Eu sou o Marcello Alexandre 👋
+### Olá! Eu sou o Marcello Alexandre 👋🏽
 - Em formação: Tecnólogo em Redes de Computadores - UFC; 
 - 👨‍💻 Bolsista no PAIP no Projeto Difusão e implementação de novas tecnologias em ambientes DEVOPS.
 
