@@ -1,4 +1,13 @@
-### Hi there 👋
+### Olá! Eu sou o Marcello Alexandre 👋
+- Em formação: Tecnólogo em Redes de Computadores - UFC; 
+- 👨‍💻 Bolsista no PAIP no Projeto Difusão e implementação de novas tecnologias em ambientes DEVOPS.
+
+
+<div>
+  <a href="https://github.com/marcelloale">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelloale&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelloale&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 <!--
 **marcelloale/marcelloale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
