@@ -8,6 +8,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelloale&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+Aprendendo sobre:
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Ale-net" height="30" width="40" src="https://img.icons8.com/doodle/344/thin-client.png">
   <img align="center" alt="Ale-tux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
@@ -21,6 +23,8 @@
   <img align="center" alt="Ale-tf" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg">
   <img align="center" alt="Ale-docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
   <img align="center" alt="Ale-k8s" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg">
+  <img align="center" alt="Ale-prom" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg">
+  <img align="center" alt="Ale-grafa" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg">
   <img align="center" alt="Ale-c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Ale-java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
   
