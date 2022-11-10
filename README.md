@@ -30,7 +30,9 @@
   
 </div>
 
-
+### My Badges
+[![@marcelloale's Holopin board](https://holopin.me/marcelloale)](https://holopin.io/@marcelloale)
+  
 <!--
 **marcelloale/marcelloale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
