@@ -4,13 +4,13 @@
 - &nbsp;<img height="20" width="15" src="https://www.infoenem.com.br/wp-content/uploads/2012/10/ufc_simbol.png" alt="ufc"> &nbsp;Tecnólogo em formação pela UFC em Redes de Computadores. <br>
 - 👨‍💻&nbsp; Bolsista no PAIP no Projeto Difusão e implementação de novas tecnologias em ambientes DEVOPS. [Site do Grupo de Estudos](https://marcelloale.github.io/devopsufc/)
 
-<!-- 
+
 <div>
   <a href="https://github.com/marcelloale">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelloale&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelloale&layout=compact&langs_count=7&theme=dark"/>
 </div>
--->
+
 
 <div style="display: inline_block"><br>
   <a href="https://marcelloale.github.io">
