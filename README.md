@@ -1,22 +1,17 @@
-### Olá! Eu sou o Marcello Alexandre <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0099FF&height=120&section=header"/>
 
-- &nbsp;<img height="15" width="15" src="https://avatars.githubusercontent.com/u/8379703?s=200&v=4" alt="weni"> &nbsp;Estagiário de Cloud Computing pela Weni.ai
-- &nbsp;<img height="20" width="15" src="https://www.infoenem.com.br/wp-content/uploads/2012/10/ufc_simbol.png" alt="ufc"> &nbsp;Tecnólogo em formação pela UFC em Redes de Computadores. <br>
-- 👨‍💻&nbsp; Bolsista no PAIP no Projeto Difusão e implementação de novas tecnologias em ambientes DEVOPS. [Site do Grupo de Estudos](https://marcelloale.github.io/devopsufc/)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0099FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Marcello+Alexandre;I'm+27+years+old;I'm+from+Brazil;I'm+a+DevOps+Engineering+Student;Be+Welcome!+:%29)
 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=marcelloale&show_icons=true&count_private=true&hide_border=true&title_color=0099FF&icon_color=0099FF&text_color=c9d1d9&bg_color=0d1117" alt="Marcello Alexandre github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelloale&layout=compact&hide_border=true&title_color=0099FF&text_color=0099FF&bg_color=0d1117" />
 
-<div>
-  <a href="https://github.com/marcelloale">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelloale&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelloale&layout=compact&size_weight=0&count_weight=1&theme=dark"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelloale/)
+
 </div>
 
-
-
-
-<div style="display: inline_block"><br>
-  <a href="https://marcelloale.github.io">
-  Usando e aprendendo sobre:<br>
+### Studying in this moment:
+<div align="center">
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -37,25 +32,8 @@
 ![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 
-
-
-  
 </div>
 
-### My Badges
-[![@marcelloale's Holopin board](https://holopin.me/marcelloale)](https://holopin.io/@marcelloale)
-  
-<!--
-**marcelloale/marcelloale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=marcelloale&bg_color=0d1117&color=0099FF&line=1D63ED&point=0099FF&area=true&hide_border=true)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0099FF&height=120&section=footer"/>
