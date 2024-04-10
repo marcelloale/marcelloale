@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Marcello Alexandre <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
 
-- &nbsp;<img height="15" width="15" src="https://avatars.githubusercontent.com/u/8379703?s=200&v=4" alt="weni"> &nbsp;Estagiário de Cloud Computing pela Weni.ai
+- &nbsp;<img height="15" width="15" src="https://avatars.githubusercontent.com/u/8379703?s=200&v=4" alt="weni"> &nbsp;Cloud Engineer Jr pela Weni.ai
 - &nbsp;<img height="20" width="15" src="https://www.infoenem.com.br/wp-content/uploads/2012/10/ufc_simbol.png" alt="ufc"> &nbsp;Tecnólogo em formação pela UFC em Redes de Computadores. <br>
 - 👨‍💻&nbsp; Bolsista no PAIP no Projeto Difusão e implementação de novas tecnologias em ambientes DEVOPS. [Site do Grupo de Estudos](https://marcelloale.github.io/devopsufc/)
 
